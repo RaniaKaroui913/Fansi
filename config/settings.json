@@ -21,7 +21,7 @@
         "stripe" , "instore" 
 
     ],
-    "databaseConnectionString": "mongodb+srv://noha:noha@fansi.jz8z5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "databaseConnectionString": "mongodb+srv://Rania:password123Rania@rania.lsg0k.mongodb.net/test?authSource=admin&replicaSet=atlas-k81ri3-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
